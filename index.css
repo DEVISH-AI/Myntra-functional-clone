@@ -312,6 +312,10 @@ header {
     cursor: pointer;
 }
 
+.btn-add-bag:hover {
+    background-color: rgb(39, 184, 39);
+}
+
 .bag-item-count {
     background-color: #f16565;
     white-space: nowrap;
