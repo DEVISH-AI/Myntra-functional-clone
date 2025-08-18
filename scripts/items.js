@@ -1,3 +1,6 @@
+// data of items displayed on the page
+
+
 const items = [
     {
         id: '001',
